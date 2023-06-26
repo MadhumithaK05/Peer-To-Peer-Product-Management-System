@@ -27,16 +27,17 @@ The system consists of the following models:
 
 ## 4. Results
 - The screen shots of the website is given below
-  
+  <img width="1440" alt="Screenshot1" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/a52b9334-a840-4487-8904-3e2531f02106">
+
  
  
 
 
  ## Files in the repository:
  - Database folder: The description of the SQL tables used in this project.
- - PHP files used in the development of the website
- - requirements.txt : A text file containing the libraries required for the execution 
-
+ - Models: PHP files used in the development of the website
+ - requirements.txt : A text file containing the libraries required for the execution
+ 
 
 ## Acknowledgements:
  - I would like to thank JamShack23 for assigning me this project.
