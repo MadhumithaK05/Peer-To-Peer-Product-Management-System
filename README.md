@@ -46,7 +46,6 @@ The system consists of the following models:
 <img width="300" height="300" alt="screenshot10" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/aedea8f4-39a6-4574-9a54-d9e1feae24df">
 <img width="300" height="300" alt="screenshot11" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/4768a2ec-b4cd-4a50-938e-1c3816b63ff2">
 
-<img width="300" height="300" alt="screenshot12" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/253c49ca-92ba-4ed5-a345-2bd529502501">
 <img width="300" height="300" alt="screenshot14" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/6aa68e15-96aa-4ce7-992d-a9e56605768b">
 <img width="300" height="300" alt="screenshot15" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/1b3e8e5e-8f4c-4f4b-9543-1e1fbb8a7e9c">
 <img width="300" height="300" alt="screenshot17" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/0bacda9b-8f91-4987-a4b9-eb64c357c2bc">
