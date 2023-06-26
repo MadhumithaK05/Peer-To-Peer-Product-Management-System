@@ -34,10 +34,10 @@ The system consists of the following models:
 
 
  ## Files in the repository:
- - Give all the files u have given in this repository
- - 
+ - Database folder: The description of the SQL tables used in this project.
+ - PHP files used in the development of the website
+ - requirements.txt : A text file containing the libraries required for the execution 
 
 
 ## Acknowledgements:
- - I would like to thank JamShack for assigning me this project.
--- 
+ - I would like to thank JamShack23 for assigning me this project.
