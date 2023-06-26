@@ -26,11 +26,10 @@ The system consists of the following models:
 - Forgot password: This model provides users with a mechanism to reset their passwords in case they forget or cannot access their existing password. It ensures that users can regain access to their accounts and maintain the security of their personal information.
 
 ## 4. Results
--Explain ur results
+- The screen shots of the website is given below
+  
  
  
-## 5. Screen shots
-- Insert images here
 
 
  ## Files in the repository:
