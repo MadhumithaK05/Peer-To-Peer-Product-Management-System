@@ -27,7 +27,8 @@ The system consists of the following models:
 
 ## 4. Results
 - The screen shots of the website is given below
-  <img width="1440" alt="Screenshot1" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/a52b9334-a840-4487-8904-3e2531f02106">
+  <img width="1440" height="500" alt="Screenshot1" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/a52b9334-a840-4487-8904-3e2531f02106">
+  
 
  
  
