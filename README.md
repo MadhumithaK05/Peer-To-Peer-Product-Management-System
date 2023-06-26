@@ -27,10 +27,20 @@ The system consists of the following models:
 
 ## 4. Results
 - The screen shots of the website is given below
-  <img width="1440" height="500" alt="Screenshot1" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/a52b9334-a840-4487-8904-3e2531f02106">
+- 
+  <img width="300" height="300" alt="Screenshot1" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/a52b9334-a840-4487-8904-3e2531f02106">
   
+  <img width="300" height="300" alt="Screenshot2" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/3d71ade4-ac70-4d6c-ba8a-c598e1052119">
 
+<img width="300" height="300" alt="screenshot4" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/91c46a66-9d63-4842-b53b-d0dd4732452d">
+
+ <img width="300" height="300" alt="screenshot5" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/5ad806dc-d5e5-4f1e-b772-328bb040b285">
  
+<img width="300" height="300" alt="screenshot6" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/3e1c5274-20a2-4f79-a89c-0db47ce922e1">
+
+<img width="300" height="300" alt="screenshot7" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/4da04ce5-50ea-40e8-a4d9-98a928300963">
+<img width="300" height="300" alt="screenshot8" src="https://github.com/MadhumithaK05/Peer-To-Peer-Product-Management-System/assets/90406259/a2a0a0b0-1156-4f52-a422-878b3093a1be">
+
  
 
 
