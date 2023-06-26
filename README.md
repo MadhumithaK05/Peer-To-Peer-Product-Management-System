@@ -55,8 +55,8 @@ The system consists of the following models:
 
  ## Files in the repository:
  - Database folder: The description of the SQL tables used in this project.
- - Models: PHP files used in the development of the website
- - requirements.txt : A text file containing the libraries required for the execution
+ - Models folder: PHP files used in the development of the website
+ - requirements.txt: A text file containing the libraries required for the execution
  
 
 ## Acknowledgements:
